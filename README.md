@@ -69,14 +69,6 @@ An elegant, responsive, and interactive photo gallery built with **HTML**, **CSS
 
 ---
 
-## 🖼️ Preview
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67407559/266894728-abe22536-dbd0-4f4e-861f-379621b1ffdd.gif" alt="Gallery Preview" width="700">
-</p>
-
----
-
 ## 🚀 Features
 
 ✅ Responsive and adaptable layout  
@@ -108,3 +100,55 @@ jquery-photo-gallery/
 │   └── main.js            
 ├── index.html             
 └── README.md              
+```
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p align="right">
+  <a href="#-english-version">🇺🇸 English</a> • 
+  <a href="#-versão-em-português">🇧🇷 Português</a>
+</p>
+
+# 🖼️ jQuery Photo Gallery
+
+[![Status](https://img.shields.io/badge/status-online-brightgreen)](https://jquery-galeria-fotos-nine-jet.vercel.app/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Made by Álex Renan](https://img.shields.io/badge/made%20by-%C3%81lex%20Renan-blueviolet)](https://github.com/Katsuhkay)
+
+An elegant and responsive image gallery built with **HTML**, **CSS**, and **jQuery**, designed to display photo collections dynamically. Includes modal effects and transitions for an enhanced user experience.
+
+🌐 **Live Demo:**  
+👉 [jquery-galeria-fotos-nine-jet.vercel.app](https://jquery-galeria-fotos-nine-jet.vercel.app/)
+
+---
+
+## 🚀 Features
+
+- ✅ Dynamic image loading  
+- ✅ Modal pop-up view  
+- ✅ Smooth animations using jQuery  
+- ✅ Responsive layout  
+- ✅ Fully static frontend
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- jQuery (JavaScript)
+
+---
+
+## 📁 Project Structure
+
+```bash
+jquery-galeria-fotos/
+├── css/
+│   └── style.css
+├── img/
+│   └── *.jpg / *.png
+├── js/
+│   └── main.js
+├── index.html
+└── README.md
