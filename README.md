@@ -56,7 +56,6 @@ jquery-galeria-fotos/
 
 🌐 ENGLISH VERSION
 
-```markdown
 # 📸 jQuery Photo Gallery
 
 [![Status](https://img.shields.io/badge/status-online-brightgreen)](https://jquery-galeria-fotos-nine-jet.vercel.app/)
