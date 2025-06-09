@@ -14,7 +14,7 @@ Uma galeria de fotos elegante, responsiva e interativa criada com **HTML**, **CS
 ## 🖼️ Prévia
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Katsuhkay/jquery-galeria-fotos/main/assets/readme-preview.gif" alt="Preview da Galeria" width="700">
+  <img src="https://user-images.githubusercontent.com/67407559/266894728-abe22536-dbd0-4f4e-861f-379621b1ffdd.gif" alt="Preview da Galeria" width="700">
 </p>
 
 ---
@@ -43,10 +43,71 @@ Uma galeria de fotos elegante, responsiva e interativa criada com **HTML**, **CS
 ```bash
 jquery-galeria-fotos/
 ├── css/
-│   └── style.css          # Estilos da galeria
+│   └── style.css          
 ├── img/
-│   └── *.jpg              # Imagens utilizadas
+│   └── *.jpg              
 ├── js/
-│   └── main.js            # Lógica jQuery
-├── index.html             # Página principal
-└── README.md              # Este arquivo
+│   └── main.js            
+├── index.html             
+└── README.md              
+
+---------------------------------------------------------------------------------------------------------------
+
+
+---
+
+### 🌐 ENGLISH VERSION
+
+```markdown
+# 📸 jQuery Photo Gallery
+
+[![Status](https://img.shields.io/badge/status-online-brightgreen)](https://jquery-galeria-fotos-nine-jet.vercel.app/)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Made by Álex Renan](https://img.shields.io/badge/made%20by-%C3%81lex%20Renan-blueviolet)](https://github.com/Katsuhkay)
+
+An elegant, responsive, and interactive photo gallery built with **HTML**, **CSS**, and **jQuery**. It focuses on minimal design, smooth transitions, and high usability across all devices.
+
+🌐 **Live Demo:**  
+👉 [jquery-galeria-fotos-nine-jet.vercel.app](https://jquery-galeria-fotos-nine-jet.vercel.app/)
+
+---
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67407559/266894728-abe22536-dbd0-4f4e-861f-379621b1ffdd.gif" alt="Gallery Preview" width="700">
+</p>
+
+---
+
+## 🚀 Features
+
+✅ Responsive and adaptable layout  
+✅ Clickable thumbnails to display larger images  
+✅ Smooth transitions with jQuery (fadeIn, fadeOut)  
+✅ Clean and well-structured code  
+✅ Easy to customize or reuse in other projects  
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**
+- **jQuery**
+
+---
+
+## 📁 File Structure
+
+```bash
+jquery-photo-gallery/
+├── css/
+│   └── style.css          
+├── img/
+│   └── *.jpg              
+├── js/
+│   └── main.js            
+├── index.html             
+└── README.md              
