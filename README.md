@@ -53,10 +53,7 @@ jquery-galeria-fotos/
 
 ---------------------------------------------------------------------------------------------------------------
 
-
----
-
-### 🌐 ENGLISH VERSION
+🌐 ENGLISH VERSION
 
 ```markdown
 # 📸 jQuery Photo Gallery
